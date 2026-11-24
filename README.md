@@ -27,4 +27,4 @@ Proyecto de corto animado con escenario 3D interactivo.
 
 Puedes recorrer el escenario del corto animado en tiempo real desde tu navegador.
 Haz clic en el siguiente enlace para iniciar la experiencia:
-[**🚀 Ir al Escenario 3D**](./mi-escenario/index.html)
+[![🚀 Ir al Escenario 3D](https://img.shields.io/badge/🚀_Ir_al_Escenario_3D-Explorar_en_vivo-blue?style=for-the-badge)](https://laguilar6.github.io/carpetaDeProyecto/)
