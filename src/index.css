@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Evita las barras de scroll */
+  background-color: #0a0a1a; /* El mismo color de fondo para que no haya destellos blancos */
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+}
