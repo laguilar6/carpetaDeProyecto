@@ -1,16 +1,30 @@
-# React + Vite
+# Proyecto: [Crónicas de un retrato a las 28]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto de corto animado con escenario 3D interactivo.
 
-Currently, two official plugins are available:
+## Índice
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Propuesta Creativa
+- [1. Investigación](./Propuesta_Creativa/1_Investigacion)
+- [2. Storyline](./Propuesta_Creativa/2_Storyline)
+- [3. Sinopsis](./Propuesta_Creativa/3_Sinopsis)
+- [4. Enfoque](./Propuesta_Creativa/4_Enfoque)
+- [5. Propuesta Estética](./Propuesta_Creativa/5_Propuesta_Estetica)
+- [6. Guion Literario](./Propuesta_Creativa/6_Guion_Literario)
+- [7. Guion Técnico](./Propuesta_Creativa/7_Guion_Tecnico)
+- [8. Sinopsis de Escenas](./Propuesta_Creativa/8_Sinopsis_de_Escenas)
+- [9. Animatic / Storyboard](./Propuesta_Creativa/9_Animatic_Storyboard)
 
-## React Compiler
+### Propuesta Operativa
+- [1. Presupuesto](./Propuesta_Operativa/1_Presupuesto)
+- [2. Cronograma de Producción](./Propuesta_Operativa/2_Cronograma)
+- [3. Recursos Humanos](./Propuesta_Operativa/3_Recursos_Humanos)
+- [4. Permisos y Autorizaciones](./Propuesta_Operativa/4_Permisos_Autorizaciones)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎮 Experiencia 3D Interactiva
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Puedes recorrer el escenario del corto animado en tiempo real desde tu navegador.
+Haz clic en el siguiente enlace para iniciar la experiencia:
+[**🚀 Ir al Escenario 3D**](./mi-escenario/index.html)
